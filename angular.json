@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sga"
+    }
+  },
+  "defaultProject": "sga",
+  "cli": {
+    "analytics": "fb75de9c-cc57-4d31-bab6-3522fc8276c1"
+  }
 }
